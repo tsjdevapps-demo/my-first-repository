@@ -1,2 +1,3 @@
 # my-first-repository
-My first GitHub repository.
+
+This is the file after our first git commit.
